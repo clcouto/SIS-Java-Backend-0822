@@ -183,19 +183,27 @@ System.out.println("Meu boolean: " + bo1);
 
 <h3>Estruturas condicionais</h3>
 <ul>
-  <li><strong>IF</strong></li>
+  <li><strong>IF Simples</strong></li>
   <ul>
 
 ```Java
-byte b1 = -12;
-System.out.println("Meu número byte: " + b1);
+if () {
+    // Comandos
+}
+```
+  </ul>
+  <li><strong>IF Composto</strong></li>
+  <ul>
 
-short s1 = 16522;
-System.out.println("Meu número short: " + s1);
-
-int i1 = 520;
-System.out.println("Meu número inteiro: " + i1);
+```Java
+if () {
+    // Comandos
+} else {
+    // Comandos
+        }
 ```
 
   </ul>
+
+
 </ul>
