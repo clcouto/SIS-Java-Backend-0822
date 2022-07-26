@@ -180,3 +180,22 @@ System.out.println("Meu boolean: " + bo1);
 	  </ul>
   </ul>
 </ul>
+
+<h3>Estruturas condicionais</h3>
+<ul>
+  <li><strong>IF</strong></li>
+  <ul>
+
+```Java
+byte b1 = -12;
+System.out.println("Meu número byte: " + b1);
+
+short s1 = 16522;
+System.out.println("Meu número short: " + s1);
+
+int i1 = 520;
+System.out.println("Meu número inteiro: " + i1);
+```
+
+  </ul>
+</ul>
