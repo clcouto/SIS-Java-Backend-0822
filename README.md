@@ -241,36 +241,39 @@ switch (Variável) {
 }
 ```
   </ul>
+</ul>
 
-  <li><strong>xxx</strong></li>
+<h3>Estruturas de repetição</h3>
+<ul>
+
+<li><strong>While</strong></li>
   <ul>
 
 ```Java
-if
+while (Condição) {
+    // Comandos o laço de repetição
+}
 ```
   </ul>
 
-  <li><strong>xxx</strong></li>
+  <li><strong>For</strong></li>
   <ul>
 
 ```Java
-if
+for (Integer i = 0; i < valorMáximo; i++) {
+    // Comandos o laço de repetição
+}
 ```
   </ul>
 
-  <li><strong>xxx</strong></li>
+  <li><strong>Foreach</strong></li>
   <ul>
 
 ```Java
-if
+for (Object obj : lista) {
+    // Comandos o laço de repetição
+}
 ```
   </ul>
 
-  <li><strong>xxx</strong></li>
-  <ul>
-
-```Java
-if
-```
-  </ul>
 </ul>
