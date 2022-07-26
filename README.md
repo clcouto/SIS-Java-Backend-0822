@@ -139,6 +139,9 @@ System.out.println("Meu número long: " + l1);
 char c1 = 'C';
 System.out.println("Meu char: " + c1);
 
+String word = "Joana";
+System.out.println("Minha cadeia de caracteres: " + word);
+
 boolean bo1 = true;
 System.out.println("Meu boolean: " + bo1);
 ```
