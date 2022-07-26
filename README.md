@@ -183,11 +183,12 @@ System.out.println("Meu boolean: " + bo1);
 
 <h3>Estruturas condicionais</h3>
 <ul>
+
   <li><strong>IF Simples</strong></li>
   <ul>
 
 ```Java
-if () {
+if (Condição) {
     // Comandos
 }
 ```
@@ -197,7 +198,7 @@ if () {
   <ul>
 
 ```Java
-if () {
+if (Condição) {
     // Comandos
 } else {
     // Comandos
@@ -210,9 +211,9 @@ if () {
   <ul>
 
 ```Java
-if () {
+if (Condição) {
     // Comandos
-} else if () {
+} else if (Condição) {
     // Comandos
 } else {
     // Comandos
@@ -221,4 +222,55 @@ if () {
 
   </ul>
 
+  <li><strong>Switch</strong></li>
+  <ul>
+
+```Java
+switch (Variável) {
+    case valor1:
+        // Código
+        break;
+    case valor2:
+        // Código
+        break;
+    case valor3:
+        // Código
+        break;
+    default:
+        // Código
+}
+```
+  </ul>
+
+  <li><strong>xxx</strong></li>
+  <ul>
+
+```Java
+if
+```
+  </ul>
+
+  <li><strong>xxx</strong></li>
+  <ul>
+
+```Java
+if
+```
+  </ul>
+
+  <li><strong>xxx</strong></li>
+  <ul>
+
+```Java
+if
+```
+  </ul>
+
+  <li><strong>xxx</strong></li>
+  <ul>
+
+```Java
+if
+```
+  </ul>
 </ul>
