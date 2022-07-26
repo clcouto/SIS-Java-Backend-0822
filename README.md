@@ -181,6 +181,22 @@ System.out.println("Meu boolean: " + bo1);
   </ul>
 </ul>
 
+<h3>Sintaxes na linguagem Java</h3>
+<ul>
+
+<li><strong>Operadores matemáticos</strong></li>
+<ul>
+<li>+ | soma</li>
+<li>- | subtração</li>
+<li>/ | divisão</li>
+<li>* | multiplicação</li>
+<li>% | módulo (resto da divisão de inteiros)</li>
+<li>++ | operador unário de soma (incremento)</li>
+<li>-- | operador unário de subtração (decremento)</li>
+
+</ul>
+</ul>
+
 <h3>Estruturas condicionais</h3>
 <ul>
 
@@ -251,7 +267,7 @@ switch (Variável) {
 
 ```Java
 while (Condição) {
-    // Comandos o laço de repetição
+    // Comandos dentro do laço de repetição
 }
 ```
   </ul>
@@ -261,7 +277,7 @@ while (Condição) {
 
 ```Java
 for (Integer i = 0; i < valorMáximo; i++) {
-    // Comandos o laço de repetição
+    // Comandos dentro do laço de repetição
 }
 ```
   </ul>
@@ -271,7 +287,7 @@ for (Integer i = 0; i < valorMáximo; i++) {
 
 ```Java
 for (Object obj : lista) {
-    // Comandos o laço de repetição
+    // Comandos dentro do laço de repetição
 }
 ```
   </ul>
