@@ -192,6 +192,7 @@ if () {
 }
 ```
   </ul>
+
   <li><strong>IF Composto</strong></li>
   <ul>
 
@@ -200,10 +201,24 @@ if () {
     // Comandos
 } else {
     // Comandos
-        }
+}
 ```
 
   </ul>
 
+  <li><strong>IF Encadeado</strong></li>
+  <ul>
+
+```Java
+if () {
+    // Comandos
+} else if () {
+    // Comandos
+} else {
+    // Comandos
+}
+```
+
+  </ul>
 
 </ul>
