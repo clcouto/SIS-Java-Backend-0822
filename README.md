@@ -184,7 +184,7 @@ System.out.println("Meu boolean: " + bo1);
 <h3>Sintaxes na linguagem Java</h3>
 <ul>
 
-<li><strong>Operadores matemáticos</strong></li>
+<h5><strong>Operadores matemáticos</strong></h5>
 <ul>
 <li>+ soma</li>
 <li>- subtração</li>
@@ -195,7 +195,7 @@ System.out.println("Meu boolean: " + bo1);
 <li>-- operador unário de subtração (decremento)</li>
 </ul>
 
-<li><strong>Operadores lógicos</strong></li>
+<h5><strong>Operadores lógicos</strong></h5>
 <ul>
 <li>AND - && (Retorna verdadeiro se ambos os testes forem verdadeiros);</li>
 <li>OR - || (Retorna verdadeiro se algum dos testes for verdadeiro);</li>
