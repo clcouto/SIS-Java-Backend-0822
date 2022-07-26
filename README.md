@@ -186,15 +186,22 @@ System.out.println("Meu boolean: " + bo1);
 
 <li><strong>Operadores matemáticos</strong></li>
 <ul>
-<li>+ | soma</li>
-<li>- | subtração</li>
-<li>/ | divisão</li>
-<li>* | multiplicação</li>
-<li>% | módulo (resto da divisão de inteiros)</li>
-<li>++ | operador unário de soma (incremento)</li>
-<li>-- | operador unário de subtração (decremento)</li>
-
+<li>+ soma</li>
+<li>- subtração</li>
+<li>/ divisão</li>
+<li>* multiplicação</li>
+<li>% módulo (resto da divisão de inteiros)</li>
+<li>++ operador unário de soma (incremento)</li>
+<li>-- operador unário de subtração (decremento)</li>
 </ul>
+
+<li><strong>Operadores lógicos</strong></li>
+<ul>
+<li>AND - && (Retorna verdadeiro se ambos os testes forem verdadeiros);</li>
+<li>OR - || (Retorna verdadeiro se algum dos testes for verdadeiro);</li>
+<li>NOT - ! (Retorna o oposto do resultado do teste).</li>
+</ul>
+
 </ul>
 
 <h3>Estruturas condicionais</h3>
